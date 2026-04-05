@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E,0EA5E9&height=180&section=header&text=Anas%20Ezz&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E,0EA5E9&height=180&section=header&text=Anas%20Ezz&fontSize=52&fontColor=ffffff&fontAlignY=38&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,13 +8,10 @@
 
 ### 👋 About Me
 
-I'm a Flutter developer from **Egypt 🇪🇬**, focused on building scalable, production-quality mobile applications using **Clean Architecture**, **Bloc/Cubit**, and **REST APIs**.
+I'm a Flutter developer , focused on building scalable, production-quality mobile applications using **Clean Architecture**, **Bloc/Cubit**, and **REST APIs**,**FireBase**.
 
 I care about writing code that's readable, maintainable, and built to last — not just code that works.
 
-- 🎓 Faculty of Arts, Alexandria — graduating 2026
-- 🏅 Ranked **#1** at EraaSoft Flutter Training Program
-- 📱 Currently building **Bookia** — a full-featured e-commerce bookstore app
 - 🎥 Running a **YouTube channel** teaching Flutter & Dart (Arabic)
 - 💼 Open to **freelance**, **remote**, and **full-time** Flutter roles
 
@@ -33,14 +30,7 @@ I care about writing code that's readable, maintainable, and built to last — n
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [📚 Bookia](https://github.com/Anas3Ezz/bookia) | Full e-commerce bookstore app — auth, cart, wishlist, checkout | Flutter · Bloc · REST API · Clean Arch · Freezed |
-| [✅ Taskati](https://github.com/Anas3Ezz/taskati) | Offline-first task management app with local persistence | Flutter · Bloc · Hive · Clean Architecture |
-
----
 
 ### 📊 GitHub Stats
 
@@ -59,7 +49,6 @@ I care about writing code that's readable, maintainable, and built to last — n
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzans/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@YOUR_CHANNEL](https://www.youtube.com/@Anas3Ezz))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzanaswork@gmail.com)
 
 </div>
