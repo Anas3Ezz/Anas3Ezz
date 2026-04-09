@@ -13,7 +13,7 @@ I'm a Flutter developer , focused on building scalable, production-quality mobil
 I care about writing code that's readable, maintainable, and built to last — not just code that works.
 
 - 🎥 Running a **YouTube channel** teaching Flutter & Dart (Arabic)
-- 💼 Open to **freelance**, **remote**, and **full-time** Flutter roles
+- 💼 Open to **freelance** and **remote** Flutter roles
 
 ---
 
