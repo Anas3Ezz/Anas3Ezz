@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Clean+Architecture+%E2%80%A2+Bloc%2FCubit+%E2%80%A2+REST+APIs;Building+production-quality+Flutter+apps;Teaching+Flutter+%26+Dart+on+YouTube+(Arabic);Open+to+Freelance+%26+Remote+Roles" alt="Typing SVG"/>
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anas3Ezz&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Anas3Ezz?style=for-the-badge&color=0F766E&labelColor=1a1a2e)
-
 </div>
 
 <br/>
@@ -97,16 +92,6 @@ Offline-first task management app with Hive local storage and Clean Architecture
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anas3Ezz&theme=tokyonight&hide_border=true&background=1a1a2e&ring=0EA5E9&fire=38BDF8"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Anas3Ezz&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas3Ezz&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
