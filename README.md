@@ -66,12 +66,12 @@ Flutter e-commerce bookstore app built with Clean Architecture, Bloc/Cubit, REST
 </td>
 <td width="33%" valign="top">
 
-### 🏠 Homz
-A modern real estate app — browse, compare, and find your perfect property, with localization support.
+### 🤝 Pact
+A paired accountability app — pair up with a partner, share challenges, and track completion streaks together in real time.
 
-`dart` `real-estate` `bloc` `localization`
+`dart` `firebase` `flutter` `accountability`
 
-[🔗 View Repo](https://github.com/Anas3Ezz/Homz)
+[▶️ Get it on Google Play](https://play.google.com/store/apps/details?id=com.anas.pact)
 
 </td>
 <td width="33%" valign="top">
