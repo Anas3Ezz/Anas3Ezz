@@ -17,8 +17,8 @@ Play and the App Store. I like owning an app end to end, from how it's
 architected down to the day it ships, and I care about clean architecture and
 real-time features.
 
-Right now I'm a Flutter developer at Gosor Solution. I also teach Flutter in
-Arabic on my YouTube channel.
+Right now I'm a Flutter Software Engineer at Gosor Solutions. I also mentor
+Flutter trainees at EraaSoft and teach Flutter in Arabic on my YouTube channel.
 
 ## Selected work
 
