@@ -14,8 +14,8 @@
 I'm a Mobile Software Engineer specializing in Flutter. For the past couple of
 years I've been building apps for Android and iOS and getting them onto Google
 Play and the App Store. I like owning an app end to end, from how it's
-architected down to the day it ships, and I care about clean architecture,
-offline-first data, and real-time features.
+architected down to the day it ships, and I care about clean architecture and
+real-time features.
 
 Right now I'm a Flutter developer at Gosor Solution. I also teach Flutter in
 Arabic on my YouTube channel.
@@ -58,7 +58,7 @@ Private repo
 ## Open source
 
 - [bookia](https://github.com/Anas3Ezz/bookia): e-commerce bookstore app with Clean Architecture, Bloc/Cubit, REST APIs and Freezed
-- [taskati](https://github.com/Anas3Ezz/taskati): offline-first task manager using Hive
+- [taskati](https://github.com/Anas3Ezz/taskati): offline task manager using Hive
 
 ## Toolbox
 
