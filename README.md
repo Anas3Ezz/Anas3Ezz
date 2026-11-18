@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0EA5E9,100:38BDF8&height=200&section=header&text=Anas%20Ezz&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Mobile%20Software%20Engineer%20%7C%20Flutter&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Anas Ezz, Mobile Software Engineer, Flutter"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzans/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ezzanaswork@gmail.com)
@@ -66,8 +66,4 @@ Private repo
 
 Clean Architecture, BLoC/Cubit, Dio and REST APIs, Hive, Freezed, unit testing, Google Play publishing
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0F766E&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt=""/>
